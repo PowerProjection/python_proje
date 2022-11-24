@@ -45,7 +45,6 @@ OUTPUT>>>:	`1 a cat 2 3 dog 4 5`
 
 OUTPUT>>>:	 `[1,'a','cat',2,3,'dog',4,5]`
 
-### Yukarıdaki fonksiyonu yazdıktan sonra if-else ile yazdığım kodun ne kadar amatörce olduğunun farkına vardım :)
 # # #
 # SORU 2:
 ### Verilen listenin içindeki elemanları tersine döndüren bir fonksiyon yazın. Eğer listenin içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün. Örnek olarak:
